@@ -91,16 +91,10 @@ One of my current projects is an **AI-driven Project Intelligence MCP**, designe
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=JorgeAttie-Stark&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=JorgeAttie-Stark&show_icons=true&theme=tokyonight&hide_border=true" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JorgeAttie-Stark&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAttie-Stark&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
