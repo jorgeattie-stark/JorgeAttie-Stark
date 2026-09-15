@@ -8,21 +8,21 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineer at Stark Bank**, working with modern web technologies, cloud infrastructure and AI-powered development.
+I'm a **Software Engineer at Stark Bank**, working with modern web technologies, cloud infrastructure, and AI-powered development.
 
-My background is strongly focused on **JavaScript/TypeScript, React and Angular**, while expanding deeper into **Python, backend engineering, cloud infrastructure and AI engineering**.
+My background is strongly focused on **JavaScript, TypeScript, React, and Angular**, while expanding deeper into **Python, backend engineering, cloud infrastructure, and AI engineering**.
 
 Currently, I'm particularly interested in:
 
 - 🤖 **AI-assisted software development**
-- 🧠 **LLMs, AI Agents and MCP**
-- 🐍 **Python & FastAPI**
+- 🧠 **LLMs, AI Agents, and MCP**
+- 🐍 **Python and FastAPI**
 - ☁️ **Cloud infrastructure**
-- 🏗️ **Distributed systems & backend architecture**
+- 🏗️ **Backend architecture and distributed systems**
 - 🔐 **Application security**
 - ⚙️ **Developer tooling and automation**
 
-I enjoy building systems that combine **software engineering + AI** to make development, infrastructure and financial workflows more intelligent and automated.
+I enjoy building systems that combine **software engineering and AI** to make development, infrastructure, and financial workflows more intelligent and automated.
 
 ---
 
@@ -73,7 +73,7 @@ Currently exploring and building with:
 - **AI-powered testing and code review**
 - **Developer automation**
 
-One of my current projects is an **AI-driven Project Intelligence MCP**, designed to analyze project structure, understand codebases and provide architectural insights to AI agents.
+One of my current projects is an **AI-driven Project Intelligence MCP**, designed to analyze project structure, understand codebases, and provide architectural insights to AI agents.
 
 ---
 
@@ -81,9 +81,9 @@ One of my current projects is an **AI-driven Project Intelligence MCP**, designe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeAttie-Stark&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeAttie-Stark&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAttie-Stark&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAttie-Stark&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -91,10 +91,6 @@ One of my current projects is an **AI-driven Project Intelligence MCP**, designe
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=JorgeAttie-Stark&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAttie-Stark&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=JorgeAttie-Stark&theme=tokyonight&hide_border=true" />
 
 </div>
