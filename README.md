@@ -8,19 +8,20 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineer at Stark Bank**, working with modern web technologies, cloud infrastructure, and AI-powered development.
+I'm a **Full-Stack Software Engineer at Stark Bank**, working across frontend, backend, cloud infrastructure, and AI-powered development.
 
-My background is strongly focused on **JavaScript, TypeScript, React, and Angular**, while expanding deeper into **Python, backend engineering, cloud infrastructure, and AI engineering**.
+My main experience is with **JavaScript, TypeScript, Angular, React, and modern web applications**, building scalable and maintainable products across the stack. I also work with **Python, FastAPI, PostgreSQL, Docker, Kubernetes, AWS, and GCP**.
 
 Currently, I'm particularly interested in:
 
 - 🤖 **AI-assisted software development**
 - 🧠 **LLMs, AI Agents, and MCP**
-- 🐍 **Python and FastAPI**
+- 💻 **Full-stack web development**
+- 🐍 **Python & FastAPI**
 - ☁️ **Cloud infrastructure**
-- 🏗️ **Backend architecture and distributed systems**
+- 🏗️ **Backend architecture & distributed systems**
 - 🔐 **Application security**
-- ⚙️ **Developer tooling and automation**
+- ⚙️ **Developer tooling & automation**
 
 I enjoy building systems that combine **software engineering and AI** to make development, infrastructure, and financial workflows more intelligent and automated.
 
